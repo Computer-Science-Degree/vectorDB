@@ -1,0 +1,5 @@
+chromadb
+scikit-learn
+sentence-transformers
+pandas 
+numpy
