@@ -1,0 +1,14 @@
+venv_vectordb
+.venv_vectordb
+venv_vectordb/
+.venv_vectordb/
+.venv_vectordb/include
+.venv_vectordb/include/python3.10
+.venv_vectordb/lib
+.venv_vectordb/lib/python3.10
+.venv_vectordb/lib/python3.10/lib-dynload
+.venv_vectordb/lib/python3.10/site-packages
+.venv_vectordb/lib/python3.10/site-packages/pip
+.venv_vectordb/lib/python3.10/site-packages/pip/cache
+.venv_vectordb/lib/python3.10/site-packages/pip/cache/wheels
+.venv_vectordb/lib/python3.10/site-packages/pip
